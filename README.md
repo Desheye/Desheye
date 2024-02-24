@@ -1,7 +1,4 @@
-Hi my name is Desheye and i love to bring web designs to life for a great digital experience.
-I'm currently in the Alx Software Engineering Programme, and guess what? theyy didnt lie when they said 'Do Hard Things'
-I speak and i'm fluent in Yoruba, English, Pidgin-English, Python and Javascript.
-I'm looking to collaborate on mini-projects to sharpen my skills and maybe reach out to a wider tech community, and possibly grow my tribe.
+###About Me ─── ⋆⋅☆⋅⋆ ──
+Hey there, I'm Desheye, passionate about transforming web designs into captivating digital experiences. Currently enrolled in the Alx Software Engineering Programme, where "Do Hard Things" isn't just a saying, it's a lifestyle. Fluent in Yoruba, English, and Pidgin-English, as well as Python and JavaScript.
 
-I'm always here <thefelainme@gmail.com> <aarealaafiaboyz@gmail.com> +234-8167-11-8379 @concieveXcreate on X 
-
+I'm eager to collaborate on mini-projects to hone my skills and connect with the tech community. Let's grow together! Reach me at thefelainme@gmail.com or aarealaafiaboyz@gmail.com, or ping me on @concieveXcreate.
